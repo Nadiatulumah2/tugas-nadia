@@ -1,9 +1,14 @@
-# tampilan_menu_v2.0
+#Tugas 10
+Nama: Nadiatul umah
 
-Hasil Running App
+Kelas: TI.22.A5
+
+NIM: 312210500
+
+Dosen Pengampu: Donny Maulana, S.Kom., M.M.S.I.
+
+#Hasil RUN
 
 
-
-
-https://github.com/IdrisSyahrudin/tampilan_menu_v2.0/assets/129921422/1c170ffc-86fb-4b60-bec3-26ce37b9ece7
+https://github.com/Nadiatulumah2/tugas-nadia/assets/129835302/3b08212b-7ec8-4d7c-94a6-fad3fd67867f
 
